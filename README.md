@@ -19,8 +19,3 @@ To offer users a smooth and stable service with 99.9% availability we are using 
 
 With frequent updates and enhanced features, you will have an amazing experience with the Translation Tool Bot. If there is any feature that you would like to suggest please feel free to join our discord server.
 
-<img src="https://media.discordapp.net/attachments/1084377732122685441/1084403282572759120/Auto-lang-mod.png" alt="Auto-lang-mod">
-
-</body>
-</html>
-
