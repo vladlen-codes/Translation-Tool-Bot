@@ -18,3 +18,32 @@ Hence we believe in keeping the language culture alive by offering you over 100+
 To offer users a smooth and stable service with 99.9% availability we are using an industrial design.
 
 With frequent updates and enhanced features, you will have an amazing experience with the Translation Tool Bot. If there is any feature that you would like to suggest please feel free to join our discord server.
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  width: 100%;
+}
+</style>
+</head>
+<body>
+
+<img src="https://media.discordapp.net/attachments/1084377732122685441/1084406652574384158/sayhellotott.png" alt="sayhellotott">
+
+<br>
+
+<img src="https://media.discordapp.net/attachments/1084377732122685441/1084391954374201445/Reactions.png" alt="reactions">
+
+<br>
+
+<img src="https://media.discordapp.net/attachments/1084377732122685441/1084399663463006269/translation.png" alt="translation">
+
+<br>
+
+<img src="https://media.discordapp.net/attachments/1084377732122685441/1084403282572759120/Auto-lang-mod.png" alt="Auto-lang-mod">
+
+</body>
+</html>
+
