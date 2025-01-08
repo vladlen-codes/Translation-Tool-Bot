@@ -4,8 +4,8 @@ import aiohttp
 from discord.ext import commands
 from discord.ui import Button, View, view
 
-VOTER_API_URL = "https://top.gg/api/bots/963117690552197131/check"
-AUTHORIZATION_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijk2MzExNzY5MDU1MjE5NzEzMSIsImJvdCI6dHJ1ZSwiaWF0IjoxNjcwMDY3ODM1fQ.iNQ8hW5-Er79ZfMK4iAugWsBma0EHOk2uKcLafW5rRM"
+VOTER_API_URL = "YOUR_TOKEN"
+AUTHORIZATION_TOKEN = "YOUR_TOKEN"
 
 def is_voted():
     async def voting(ctx: commands.Context):
