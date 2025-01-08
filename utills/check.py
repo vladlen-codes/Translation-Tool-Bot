@@ -23,12 +23,12 @@ def is_voted():
                 if data.get('voted'):
                     return True
                 else:
-                    button = Button(label="Top.gg", style=discord.ButtonStyle.gray, url="https://top.gg/bot/963117690552197131/vote")
+                    button = Button(label="Top.gg", style=discord.ButtonStyle.gray, url="YOUR_URL")
                     view = View()
                     view.add_item(button)
                     embed = discord.Embed(
                         title="Vote!",
-                        description="<:vote_tt:1026011042519711754> You have to [vote](https://top.gg/bot/963117690552197131/vote) for Translation Tool to run this command.",
+                        description="You have to [vote](YOUR_URL) for Translation Tool to run this command.",
                         color=0x9D00FF
                     )
                     await ctx.respond(embed=embed, view=view)
